@@ -1,0 +1,83 @@
+FATAL  | wrapperm | 2014/06/11 09:19:04 | Failed to obtain elevated status. (1223): The operation was canceled by the user. (0x4c7)
+ERROR  | wrapperm | 2014/06/11 09:19:09 | The ServerSocketService service is not installed - The specified service does not exist as an installed service. (0x424)
+STATUS | wrapperm | 2014/06/11 09:19:15 | ServerSocketService service installed.
+STATUS | wrapper  | 2014/06/11 09:20:21 | --> Wrapper Started as Service
+STATUS | wrapper  | 2014/06/11 09:20:21 | Java Service Wrapper Community Edition 32-bit 3.5.24
+STATUS | wrapper  | 2014/06/11 09:20:21 |   Copyright (C) 1999-2014 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2014/06/11 09:20:21 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2014/06/11 09:20:21 | 
+STATUS | wrapper  | 2014/06/11 09:20:22 | Launching a JVM...
+INFO   | jvm 1    | 2014/06/11 09:20:23 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2014/06/11 09:20:23 | Server Socket aktivleshdi: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=2014]
+INFO   | jvm 1    | 2014/06/11 09:20:31 | ClientSocketle baglanti yaradildi: Socket[addr=/127.0.0.1,port=49968,localport=2014]
+INFO   | jvm 1    | 2014/06/11 09:20:31 | Baglantini qebul eden thread: Thread-2  &  socket info: Socket[addr=/127.0.0.1,port=49968,localport=2014]
+INFO   | jvm 1    | 2014/06/11 09:20:31 | ClientSocketden ServerSockete gonderilen request: 55
+INFO   | jvm 1    | 2014/06/11 09:20:31 | ServerSocketden ClientSockete gonderilen response: b53b3a3d6ab90ce0268229151c9bde11
+INFO   | jvm 1    | 2014/06/11 09:20:31 | Socket ishini bitirdi ve baglandi.. 
+INFO   | jvm 1    | 2014/06/11 09:20:31 | 
+INFO   | jvm 1    | 2014/06/11 09:20:39 | ClientSocketle baglanti yaradildi: Socket[addr=/127.0.0.1,port=49973,localport=2014]
+INFO   | jvm 1    | 2014/06/11 09:20:39 | Baglantini qebul eden thread: Thread-3  &  socket info: Socket[addr=/127.0.0.1,port=49973,localport=2014]
+INFO   | jvm 1    | 2014/06/11 09:20:39 | ClientSocketden ServerSockete gonderilen request: 44
+INFO   | jvm 1    | 2014/06/11 09:20:39 | ServerSocketden ClientSockete gonderilen response: f7177163c833dff4b38fc8d2872f1ec6
+INFO   | jvm 1    | 2014/06/11 09:20:39 | Socket ishini bitirdi ve baglandi.. 
+INFO   | jvm 1    | 2014/06/11 09:20:39 | 
+STATUS | wrapper  | 2014/06/11 09:20:45 | <-- Wrapper Stopped
+STATUS | wrapper  | 2014/06/11 09:22:13 | --> Wrapper Started as Service
+STATUS | wrapper  | 2014/06/11 09:22:13 | Java Service Wrapper Community Edition 32-bit 3.5.24
+STATUS | wrapper  | 2014/06/11 09:22:13 |   Copyright (C) 1999-2014 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2014/06/11 09:22:13 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2014/06/11 09:22:13 | 
+STATUS | wrapper  | 2014/06/11 09:22:15 | Launching a JVM...
+INFO   | jvm 1    | 2014/06/11 09:22:15 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2014/06/11 09:22:15 | Server Socket aktivleshdi: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=2014]
+INFO   | jvm 1    | 2014/06/11 09:22:35 | ClientSocketle baglanti yaradildi: Socket[addr=/127.0.0.1,port=50009,localport=2014]
+INFO   | jvm 1    | 2014/06/11 09:22:35 | Baglantini qebul eden thread: Thread-2  &  socket info: Socket[addr=/127.0.0.1,port=50009,localport=2014]
+INFO   | jvm 1    | 2014/06/11 09:22:35 | ClientSocketden ServerSockete gonderilen request: ff
+INFO   | jvm 1    | 2014/06/11 09:22:35 | ServerSocketden ClientSockete gonderilen response: 633de4b0c14ca52ea2432a3c8a5c4c31
+INFO   | jvm 1    | 2014/06/11 09:22:35 | Socket ishini bitirdi ve baglandi.. 
+INFO   | jvm 1    | 2014/06/11 09:22:35 | 
+INFO   | jvm 1    | 2014/06/11 09:22:41 | ClientSocketle baglanti yaradildi: Socket[addr=/127.0.0.1,port=50011,localport=2014]
+INFO   | jvm 1    | 2014/06/11 09:22:41 | Baglantini qebul eden thread: Thread-3  &  socket info: Socket[addr=/127.0.0.1,port=50011,localport=2014]
+INFO   | jvm 1    | 2014/06/11 09:22:41 | ClientSocketden ServerSockete gonderilen request: 44
+INFO   | jvm 1    | 2014/06/11 09:22:41 | ServerSocketden ClientSockete gonderilen response: f7177163c833dff4b38fc8d2872f1ec6
+INFO   | jvm 1    | 2014/06/11 09:22:41 | Socket ishini bitirdi ve baglandi.. 
+INFO   | jvm 1    | 2014/06/11 09:22:41 | 
+INFO   | jvm 1    | 2014/06/11 09:22:47 | ClientSocketle baglanti yaradildi: Socket[addr=/127.0.0.1,port=50015,localport=2014]
+INFO   | jvm 1    | 2014/06/11 09:22:47 | Baglantini qebul eden thread: Thread-4  &  socket info: Socket[addr=/127.0.0.1,port=50015,localport=2014]
+INFO   | jvm 1    | 2014/06/11 09:22:47 | ClientSocketden ServerSockete gonderilen request: 88
+INFO   | jvm 1    | 2014/06/11 09:22:47 | ServerSocketden ClientSockete gonderilen response: 2a38a4a9316c49e5a833517c45d31070
+INFO   | jvm 1    | 2014/06/11 09:22:47 | Socket ishini bitirdi ve baglandi.. 
+INFO   | jvm 1    | 2014/06/11 09:22:47 | 
+INFO   | jvm 1    | 2014/06/11 09:22:58 | ClientSocketle baglanti yaradildi: Socket[addr=/127.0.0.1,port=50019,localport=2014]
+INFO   | jvm 1    | 2014/06/11 09:22:58 | Baglantini qebul eden thread: Thread-5  &  socket info: Socket[addr=/127.0.0.1,port=50019,localport=2014]
+INFO   | jvm 1    | 2014/06/11 09:22:58 | ClientSocketden ServerSockete gonderilen request: 8844
+INFO   | jvm 1    | 2014/06/11 09:22:58 | ServerSocketden ClientSockete gonderilen response: 9c449771d0edc923c2713a7462cefa3b
+INFO   | jvm 1    | 2014/06/11 09:22:58 | Socket ishini bitirdi ve baglandi.. 
+INFO   | jvm 1    | 2014/06/11 09:22:58 | 
+STATUS | wrapper  | 2014/06/11 09:23:45 | <-- Wrapper Stopped
+STATUS | wrapper  | 2014/06/11 09:37:12 | --> Wrapper Started as Service
+STATUS | wrapper  | 2014/06/11 09:37:12 | Java Service Wrapper Community Edition 32-bit 3.5.24
+STATUS | wrapper  | 2014/06/11 09:37:12 |   Copyright (C) 1999-2014 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2014/06/11 09:37:12 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2014/06/11 09:37:12 | 
+STATUS | wrapper  | 2014/06/11 09:37:13 | Launching a JVM...
+INFO   | jvm 1    | 2014/06/11 09:37:13 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2014/06/11 09:37:14 | Server Socket aktivleshdi: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=2014]
+INFO   | jvm 1    | 2014/06/11 09:37:29 | ClientSocketle baglanti yaradildi: Socket[addr=/127.0.0.1,port=50252,localport=2014]
+INFO   | jvm 1    | 2014/06/11 09:37:29 | Baglantini qebul eden thread: Thread-2  &  socket info: Socket[addr=/127.0.0.1,port=50252,localport=2014]
+INFO   | jvm 1    | 2014/06/11 09:37:29 | ClientSocketden ServerSockete gonderilen request: 
+INFO   | jvm 1    | 2014/06/11 09:37:29 | ServerSocketden ClientSockete gonderilen response: d41d8cd98f00b204e9800998ecf8427e
+INFO   | jvm 1    | 2014/06/11 09:37:29 | Socket ishini bitirdi ve baglandi.. 
+INFO   | jvm 1    | 2014/06/11 09:37:29 | 
+INFO   | jvm 1    | 2014/06/11 09:37:34 | ClientSocketle baglanti yaradildi: Socket[addr=/127.0.0.1,port=50255,localport=2014]
+INFO   | jvm 1    | 2014/06/11 09:37:34 | Baglantini qebul eden thread: Thread-3  &  socket info: Socket[addr=/127.0.0.1,port=50255,localport=2014]
+INFO   | jvm 1    | 2014/06/11 09:37:34 | ClientSocketden ServerSockete gonderilen request: 44
+INFO   | jvm 1    | 2014/06/11 09:37:34 | ServerSocketden ClientSockete gonderilen response: f7177163c833dff4b38fc8d2872f1ec6
+INFO   | jvm 1    | 2014/06/11 09:37:34 | Socket ishini bitirdi ve baglandi.. 
+INFO   | jvm 1    | 2014/06/11 09:37:34 | 
+INFO   | jvm 1    | 2014/06/11 09:37:41 | ClientSocketle baglanti yaradildi: Socket[addr=/127.0.0.1,port=50257,localport=2014]
+INFO   | jvm 1    | 2014/06/11 09:37:41 | Baglantini qebul eden thread: Thread-4  &  socket info: Socket[addr=/127.0.0.1,port=50257,localport=2014]
+INFO   | jvm 1    | 2014/06/11 09:37:41 | ClientSocketden ServerSockete gonderilen request: 55
+INFO   | jvm 1    | 2014/06/11 09:37:41 | ServerSocketden ClientSockete gonderilen response: b53b3a3d6ab90ce0268229151c9bde11
+INFO   | jvm 1    | 2014/06/11 09:37:41 | Socket ishini bitirdi ve baglandi.. 
+INFO   | jvm 1    | 2014/06/11 09:37:41 | 
